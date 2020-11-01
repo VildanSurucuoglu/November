@@ -6,6 +6,7 @@ public class Batman {
         System.out.println("I will catch you Joker");
         // Yes, he will catch
         // Batman has cool batmobile
+        //Batman has motorcycle
 
 
     }
